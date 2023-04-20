@@ -9,7 +9,7 @@ Website: https://sites.google.com/view/emttrservice/
 
 Summary: Developer tools to enable visualization, management for developers to build solutions in personalized medicine, healthcare, improve transparency in drug testing with Optimism, Ethereum, Filecoin, Embark and EtherCalc.
 
-# Pitch Video: https://www.youtube.com/watch?v=aIq3JiTlNVA
+Pitch Video: https://www.youtube.com/watch?v=aIq3JiTlNVA
 
 # Screencasts:
 
