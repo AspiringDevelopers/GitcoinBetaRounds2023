@@ -1,5 +1,6 @@
-# GitcoinBetaRounds2023
-Project Submission by SEETA for Gitcoin Beta Rounds 2023
+# Gitcoin Grants Beta Rounds 2023 in Web3 OSS category
+
+Project Submission of OP Medicine by SEETA for Gitcoin Grants Beta Rounds 2023 in Web3 OSS category
 
 Project Details: OP Medicine
 
